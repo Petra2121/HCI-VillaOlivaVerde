@@ -2,7 +2,7 @@ import React from 'react'
  
 import TitleImage from '../../components/TitleImage'
 import InquiryBlock from '../../components/InquiryBlock'
-import styles from './styles.module.css'
+import styles from './style.module.css'
  
 const TitlePage = () => (
     <section className={styles.titlePage}>
